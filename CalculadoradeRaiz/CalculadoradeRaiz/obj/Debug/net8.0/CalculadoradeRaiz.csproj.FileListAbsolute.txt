@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\bin\Debug\net8.0\CalculadoradeRaiz.exe
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\bin\Debug\net8.0\CalculadoradeRaiz.deps.json
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\bin\Debug\net8.0\CalculadoradeRaiz.runtimeconfig.json
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\bin\Debug\net8.0\CalculadoradeRaiz.dll
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\bin\Debug\net8.0\CalculadoradeRaiz.pdb
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\CalculadoradeRaiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\CalculadoradeRaiz.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\CalculadoradeRaiz.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\CalculadoradeRaiz.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\CalculadoradeRaiz.dll
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\refint\CalculadoradeRaiz.dll
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\CalculadoradeRaiz.pdb
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\CalculadoradeRaiz.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoradeRaiz\CalculadoradeRaiz\obj\Debug\net8.0\ref\CalculadoradeRaiz.dll
